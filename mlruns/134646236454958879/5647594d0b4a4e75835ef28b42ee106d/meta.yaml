@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/Binary_Classification_of_Machine_Failures/mlruns/134646236454958879/5647594d0b4a4e75835ef28b42ee106d/artifacts
+end_time: 1694039908114
+entry_point_name: ''
+experiment_id: '134646236454958879'
+lifecycle_stage: active
+run_id: 5647594d0b4a4e75835ef28b42ee106d
+run_name: RandomForest_run
+run_uuid: 5647594d0b4a4e75835ef28b42ee106d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694039794553
+status: 3
+tags: []
+user_id: ubuntu
